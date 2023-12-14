@@ -7,3 +7,10 @@ Partidos de futbol con probabilidad mayor o igual al 80% de mas de 1.5 goles
 
 Partidos de futbol con alta probabilidad de mas de 9.5 corners
 ![image](https://github.com/elfoinus/webscraping/assets/23285068/87bd9274-50fe-4721-806c-f913a8138827)
+
+Pasos para obtener la información:
+Ve a https://colab.research.google.com/ e inicia sesión con tu cuenta de Google.
+Nuevo Cuaderno en Google Colab:
+En Google Colab, haz clic en "Archivo" y selecciona "Nuevo cuaderno".
+
+Copia el código del notebook correspondiente del repositorio de GitHub y posteriormente pégalo en el cuaderno de Google Colab y por último ejecuta el cuaderno.
